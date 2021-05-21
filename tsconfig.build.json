@@ -1,0 +1,15 @@
+{
+  "extends": "./tsconfig.json",
+  "exclude": ["node_modules", "src/client", "src/server/test", "dist", "**/*spec.ts"],
+  "compilerOptions": {
+    "baseUrl": "."
+  },
+  "include": [
+    "src/server",
+    "src/server/**/*.ts",
+    "src/server/**/*.tsx",
+    "src/common",
+    "src/common/**/*.ts",
+    "src/common/**/*.tsx"
+  ]
+}

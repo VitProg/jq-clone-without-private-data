@@ -1,0 +1,53 @@
+{
+  "Common:topic-count": "{count, plural, one {тема} few {темы} many {тем}}",
+  "Common:message-count": "{count, plural, one {ответ} few {ответа} many {ответов}}",
+  "Common:login": "Войти",
+  "Common:logout": "Выйти",
+  "Common:registration": "Регистрация",
+
+  "MyMenu:profile": "Профиль",
+  "MyMenu:settings": "Настройки",
+
+  "PasswordInput:show-password": "Показать пароль",
+
+  "LoginModal:page-title": "Войти",
+  "LoginModal:modal-title": "Войти",
+  "LoginModal:field.login": "Логин / Email",
+  "LoginModal:field.password": "Пароль",
+  "LoginModal:button.submit": "Войти",
+  "LoginModal:link.forgot-password": "Забыли пароль?",
+  "LoginModal:link.registration": "Регистрация",
+  "LoginModal:error.username-or-password": "Неверный логин и/или пароль",
+  "LoginModal:error.login-is-empty": "Введите ваш логин или email",
+  "LoginModal:error.password-is-empty": "Введите ваш пароль",
+
+  "ForgotPasswordModal:page-title": "Восстановление пароля",
+  "ForgotPasswordModal:modal-title": "Восстановление пароля",
+  "ForgotPasswordModal:field.email": "Email",
+  "ForgotPasswordModal:button.submit": "Восстановить",
+  "ForgotPasswordModal:link.login": "Войти",
+  "ForgotPasswordModal:link.registration": "Регистрация",
+  "ForgotPasswordModal:error.email-is-empty": "Введите ваш email",
+
+  "RegistrationModal:page-title": "Регистрация",
+  "RegistrationModal:modal-title": "Регистрация",
+  "RegistrationModal:field.login": "Логин",
+  "RegistrationModal:field.email": "Email",
+  "RegistrationModal:field.password": "Пароль",
+  "RegistrationModal:button.submit": "Зарегистрироваться",
+  "RegistrationModal:link.login": "Войти",
+  "RegistrationModal:link.forgot-password": "Забыли пароль?",
+  "RegistrationModal:error.login-is-empty": "Введите ваш логин",
+  "RegistrationModal:error.email-is-empty": "Введите ваш email",
+  "RegistrationModal:error.password-is-empty": "Введите пароль",
+
+  "BoardListPage:page-title": "Разделы форума",
+
+  "BoardListHead:column.title": "Название",
+  "BoardListHead:column.topic-count": "Тем",
+
+  "BoardListHead:column.message-count": "Ответов",
+  "BoardListHead:column.last": "Последнее",
+
+  "_": ""
+}

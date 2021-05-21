@@ -1,0 +1,16 @@
+
+export const ApiServiceSymbol = Symbol('ApiService')
+export const AuthServiceSymbol = Symbol('AuthService')
+export const ProfileServiceSymbol = Symbol('ProfileService')
+
+export const ForumServiceSymbol = Symbol('ForumService')
+export const MessageServiceSymbol = Symbol('MessageService')
+export const MessagePrepareServiceSymbol = Symbol('MessagePrepareService')
+export const TopicServiceSymbol = Symbol('TopicService')
+export const TopicPrepareServiceSymbol = Symbol('TopicPrepareService')
+export const BoardServiceSymbol = Symbol('BoardService')
+export const BoardPrepareServiceSymbol = Symbol('BoardPrepareService')
+export const CategoryServiceSymbol = Symbol('CategoryService')
+export const CategoryPrepareServiceSymbol = Symbol('CategoryPrepareService')
+export const UserServiceSymbol = Symbol('UserService')
+export const UserPrepareServiceSymbol = Symbol('UserPrepareService')
